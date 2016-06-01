@@ -15,7 +15,6 @@ class Container extends React.Component {
       <div className='container-fluid' style={styleSheet}>
         <Hero />
         <MathAction />
-        <MvxAction />
       </div>
     );
   }
